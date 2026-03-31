@@ -1,8 +1,14 @@
 ---
 title: "Workshop Recording: Introduction to Infographics (Feb. 3, 2022 - Social Science Critique Example)"
 layout: "home"
-description: ""
+description: "This page provides a video recording of a workshop on best practices for creating infographics - with a specific social science related infographic critique example."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
 # Workshop Recording: Introduction to Infographics (Feb. 3, 2022 - Social Science Critique Example)
@@ -19,4 +25,6 @@ This workshop is designed for those new to data visualization and infographics. 
 
 [**Recording \- 50:21**](https://play.library.utoronto.ca/watch/77ac1a241218bc45a11815f493d84249)
 
-Technique: [Data Visualization](/technique/data-visualization)**Date Created:** 2025\-01\-28**Updated:** 2025\-02\-10
+Technique: [Data Visualization](/technique/data-visualization)
+
+**Date Created:** 2025\-01\-28 **Updated:** 2025\-02\-10
