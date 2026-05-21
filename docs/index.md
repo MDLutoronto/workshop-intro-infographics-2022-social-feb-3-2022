@@ -4,11 +4,11 @@ layout: "home"
 description: "This page provides a video recording of a workshop on best practices for creating infographics - with a specific social science related infographic critique example."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 maintainer:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 created_date: 2025-01-28
 ---
 
