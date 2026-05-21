@@ -25,6 +25,6 @@ This workshop is designed for those new to data visualization and infographics. 
 
 [**Recording \- 50:21**](https://play.library.utoronto.ca/watch/77ac1a241218bc45a11815f493d84249)
 
-Technique: [Data Visualization](/technique/data-visualization)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization)
 
 **Date Created:** 2025\-01\-28 **Updated:** 2025\-02\-10
