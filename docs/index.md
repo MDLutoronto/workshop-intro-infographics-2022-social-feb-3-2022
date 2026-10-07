@@ -22,7 +22,7 @@ Infographics are a specific type of data visualization that uses a mix of data, 
 
 Through a combination of lecture and an activity, this 1-hour online workshop will introduce participants to best practices and guidelines for designing effective infographics and evaluating them. For the final part of the workshop, participants will get a chance to critique an infographic and discuss their thoughts with the group.
 
-This workshop is designed for those new to data visualization and infographics. There are no prerequisites or assumptions of knowledge of math, statistics, or programming. For more information on Data Visualization, including topics covered in the workshop, and services offered by the libraries, see our [Data Visualization Guide](https://mdl.library.utoronto.ca/dataviz/getting-started).
+This workshop is designed for those new to data visualization and infographics. There are no prerequisites or assumptions of knowledge of math, statistics, or programming. For more information on Data Visualization, including topics covered in the workshop, and services offered by the libraries, see our [Data Visualization Guide](https://library.utoronto.ca/use/service/data-cleaning-analysis-and-visualization).
 
 [**Recording - 50:21**](https://play.library.utoronto.ca/watch/77ac1a241218bc45a11815f493d84249)
 
